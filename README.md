@@ -1,13 +1,10 @@
 # Concurrently
 
-[![Build Status](https://travis-ci.org/kimmobrunfeldt/concurrently.svg)](https://travis-ci.org/kimmobrunfeldt/concurrently)
 
 **Version: 1.0.0** ([*previous stable*](https://github.com/kimmobrunfeldt/concurrently/tree/0.1.1))
 
 Run multiple commands concurrently.
 Like `npm run watch-js & npm run watch-less` but better.
-
-![](docs/demo.gif)
 
 It also works on Windows. You can tune your npm scripts to work across platforms.
 
